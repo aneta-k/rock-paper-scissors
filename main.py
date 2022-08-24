@@ -41,3 +41,4 @@ else:
     print('It was a tie.')
     
 print('Goodbye!')
+#krzysiek tu był
