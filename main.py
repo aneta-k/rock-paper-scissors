@@ -41,4 +41,3 @@ else:
     print('It was a tie.')
     
 print('Goodbye!')
-print("jak tu byłem znowu!!! - test")
